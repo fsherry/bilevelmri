@@ -1,5 +1,7 @@
 # bilevelmri
 
+[![DOI](https://zenodo.org/badge/273991739.svg)](https://zenodo.org/badge/latestdoi/273991739)
+
 This package implements the methods described in "Learning the Sampling Pattern for MRI" ('https://arxiv.org/abs/1906.08754').
 
 ## Installation
